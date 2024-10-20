@@ -1,5 +1,8 @@
 # Campanion - Your AI-Powered Hiking Assistant
 
+![image](media/Campanion.png)
+
+
 Welcome to **Campanion**, the ultimate AI-driven hiking assistant developed for **Calhacks 11.0**. Our mission is to redefine outdoor safety and enjoyment by offering real-time, intelligent support tailored for hikers. Whether you need help navigating trails, sharing your location in emergencies, or getting critical safety information, Campanion is here to guide and protect you throughout your journey.
 
 ## Features
