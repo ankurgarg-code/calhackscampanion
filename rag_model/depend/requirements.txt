@@ -1,0 +1,5 @@
+Flask==2.3.2
+langchain==0.0.200  # Adjust based on the specific version you are using
+langchain-chroma==0.0.200
+langchain-google-vertexai==0.0.200
+langchain-community==0.0.200
